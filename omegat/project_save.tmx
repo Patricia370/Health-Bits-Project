@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Continued on next page)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Patry" changedate="20151111T152459Z" creationid="Patry" creationdate="20151111T152459Z">
+        <seg>(Continúa en la siguiente página)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 • &lt;t0/&gt;Issue&lt;t1/&gt; 9</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T143359Z">
+        <seg>4 • &lt;t0/&gt;Número&lt;t1/&gt; 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A repetitive strain injury (RSI) is an injury or disorder of the joints, nerves, muscles, ligaments or tendons.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144232Z">
+        <seg>Una lesión oseomuscular (LOM) es una lesión o trastorno de las articulaciones, nervios, músculos, ligamentos o tendones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carpal tunnel syndrome (CTS) is inflammation of the nerve that connects the forearm to the palm of the hand.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144819Z">
+        <seg>El síndrome del túnel carpiano es la inflamación del nervio que conecta el antebrazo con la palma de la mano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common symptoms linked to tendonitis of the wrist include extreme pain that extends from the forearm to the hand, along with a tingling feeling in the fingers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144959Z">
+        <seg>Los síntomas más habituales asociados a la tendinitis de la muñeca incluyen un dolor intenso que se extiende desde el antebrazo hasta la mano y hormigueo en los dedos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer users should be proactive and minimize their chance of health complications.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144055Z">
+        <seg>Los usuarios de ordenadores deberían ser proactivos y minimizar sus riesgos de sufrir complicaciones de salud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer-related RSIs include tendonitis and carpal tunnel syndrome.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144501Z">
+        <seg>Entre las LOM relacionadas con el uso del ordenador están la tendinitis y el síndrome del tunel carpiano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health Concerns Related to Computer Use</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T143419Z">
+        <seg>Problemas de salud relacionados con el uso del ordenador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monthly&lt;t0/&gt; &lt;t1/&gt;Newsletter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T143300Z">
+        <seg>Boletín&lt;t0/&gt; &lt;t1/&gt;mensual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OSHA (Occupational Safety and Health Administration) has guidelines designed to minimize or prevent workplace injuries with respect to computer usage.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144423Z">
+        <seg>La ASSL (Administración para la salud y la seguridad laboral) ofrece algunos consejos destinados a minimizar o prevenir las lesiones relacionadas con el uso del ordenador en los lugares de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RSIs are the largest job related injury and illness problem in the U.S.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T143940Z">
+        <seg>Las LOM son el principal tipo de lesión o dolencia relacionada con el trabajo en los EEUU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RSIs are the largest job-related injury and illness problem in the U.S.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T145137Z">
+        <seg>Las LOM son el principal tipo de lesión o dolencia relacionada con el trabajo en los EEUU..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeated and/or fo&lt;t0/&gt;rceful bending of the wrist can &lt;t1/&gt;cause tendonitis or CTS.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144905Z">
+        <seg>El movimiento repetido o fo&lt;t0/&gt;rzado de la muñeca puede &lt;t1/&gt;provocar tendinitis o STC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some symptoms of CTS include numbness and tingling in the thumb and first two fingers, and a burning pain when the nerve is compressed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T145108Z">
+        <seg>Posibles síntomas de STC son  falta de sensibilidad u hormigueo en el pulgar y los dor primeros dedos, y un dolor intenso cuando se presiona el nervio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tendonitis is inflammation of a tendon due to repeated motion or stress on that tendon.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144735Z">
+        <seg>La tendinitis es la inflamación de un tendón debido a la presión o a un movimiento repetido sobre él.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This article discusses computer health risks and preventions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144125Z">
+        <seg>Este artículo habla sobre los riesgos para la salud que puede causar el ordeandor y cómo prevenirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>he&lt;t0/&gt; widespread use of computers has been causing health concerns.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T144023Z">
+        <seg>l&lt;t0/&gt; uso generalizado de ordenadores ha generado preocupaciones sobre la salud..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>today.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="BR.283474" changedate="20151111T143949Z">
+        <seg>hoy en día.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
